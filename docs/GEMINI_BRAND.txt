@@ -1,0 +1,33 @@
+# DEBJANI DANCE ACADEMY - Brand Identity & Design System
+
+## 1. Brand Concept & Ethos
+- Brand Name: Debjani Dance Academy (দেবযানী ড্যান্স একাডেমী)
+- Sector: Classical, Contemporary & Western Dance Education, Stage Choreography & Performing Arts
+- Locality: 83/8A Purbo Para Road, Netaji Pally (near Sonu Gomes Caterer), Purba Barisha, Thakurpukur, Kolkata, West Bengal 700063
+- Phone & WhatsApp: +91 98742 94843 (098742 94843 - Verified Google Business Profile & Directory Listing)
+- Google Maps Rating: 4.8 Stars (43+ Verified Google Reviews)
+- Heritage: Over a decade of excellence in Kolkata; certified women-owned arts institution fostering creative confidence, physical discipline, and stage performance mastery.
+- Core Identity: Warm, inspiring, family-like community where beginners to advanced dancers flourish under personalized guidance and structured curriculum.
+
+## 2. Color Mood & Harmony (Strict Ban on Brown / Muddy Color Tones)
+- Canvas Base: #fcfbf9 (Pure Porcelain / Pearl White - clean, luminous, breathable modern aesthetic)
+- Surface Cards: #ffffff (Crisp White elevated cards with soft multi-layer shadow)
+- Primary Luxury Accent: #e11d48 / #be123c (Vibrant Ruby Rose / Deep Crimson - dance passion, rhythmic energy)
+- Secondary Accent: #7c3aed / #6366f1 (Royal Violet / Iris - artistic expression, stage elegance)
+- Warm Highlight: #f59e0b / #d97706 (Gilded Amber / Gold - festival celebration, ankle bell / ghungroo luster)
+- High-Contrast Typography: #0f172a (Deep Midnight Slate - sharp, modern, readable typography)
+- Frosted Glass Floating Navbar: rgba(255, 255, 255, 0.92) with 1px solid rgba(225, 29, 72, 0.2)
+- Official WhatsApp Green: #25D366 (High contrast: white speech bubble + green handset on green buttons)
+
+## 3. Core Portfolio Offerings
+1. Hip-Hop & Urban Street Dance: Breaking, popping, locking, lyrical hip-hop, dynamic footwork, and groove control.
+2. Indian Classical & Creative: Kathak rhythm, footwork (tatkar), mudras, abhinaya, and Rabindra Nritya expressions.
+3. Western Contemporary & Modern: Fluid floor work, contemporary lyrical storytelling, flexibility, and expressive movement.
+4. Wedding Sangeet & Celebration Choreography: Bespoke couple dances, family group sangeet routines, flash mobs, and festive stage concepts.
+5. Kids Dance Foundation: Fun, rhythm awareness, motor coordination, and confidence building for children aged 4+.
+6. Dance Fitness & Movement Meditation: High-energy cardio dance sessions combined with mindful movement and posture alignment.
+
+## 4. 16:9 Hero Video Summary
+- Video Asset: assets/videos/hero.mp4
+- Poster Asset: assets/images/hero-poster.jpg
+- Description: 16:9 cinematic landscape capturing expressive choreography, rhythmic grace, and studio energy with ambient stage lighting.
